@@ -21,13 +21,11 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
+```
 Program to print the text “calculator operation”.
-
-Developed by: Mahisha s
-Registeration Number : 212222040095
-
-
+Developed by: Mahisha S
+Registeration Number :212222040095
+```
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -177,7 +175,6 @@ Registeration Number : 212222040095
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## MainActivity.java:
 ```
 package com.example.exp9;
@@ -271,11 +268,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4b8b1c0f-6d98-48e2-8231-e4283eed5a47)
+<img src="https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b" alt="Image 1" width="300">
+<img src="https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b" alt="Image 2" width="300">
 
-![image](https://github.com/user-attachments/assets/702753d0-5eb0-4fa2-a35a-1f246c9006ef)
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
